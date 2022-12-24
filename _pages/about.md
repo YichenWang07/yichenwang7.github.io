@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "👨‍🎓 About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,11 +10,9 @@ redirect_from:
 I am a Ph.D. student in Planetary Environmental and Astrobiological Research Laboratory (PEAEL), School of Atomospheric Sciences, Sun Yat-sen University (now visiting Museum für Naturkunde, Berlin, Germany). I'm supervised by Prof. Zhiyong Xiao (Sun Yat-sen Univeristy) and Prof. Kai Wünnemann (Museum für Naturkunde). My main research interest is using remote sensing techniques to study geological processes on the Moon and Mercury. I am also interested in the application of impact numerical modelling to the formation mechanism of small-scale impact craters and their implications for the evolution of lunar regolith.
 
 
-👨‍🎓 Publications
+📝 Publications
 ------
-
 **Papers on peer-reviem journals**
-
 1. **Wang, Y.**, Xiao, Z., Xu, R., Xiao, Z., Cui, J., 2022. [Dark spots on Mercury show no signs of weathering during 30 Earth months.](https://doi.org/10.1038/s43247-022-00634-z) _Communications Earth & Environment_, 3, 299.
 2. **Wang, Y.**, Xiao, Z., Xu, R., 2022. Multiple mantle sources of high-magnesium terranes on Mercury. _Journal of Geophysical Research: Planets_, 127, e2022JE007218. https://doi.org/10.1029/2022JE007218
 3. **Wang, Y.**, Xiao, Z., 2021. The history of volcanism on Mercury (in Chinese). _Journal of Nanjing University (Natural Science)_, 51(6), 981–999. https://doi.org/10.13232/j.cnki.jnju/2021.06.007
@@ -54,7 +52,27 @@ Projects
 * **2018.01 – 2021.12** National Natural Science Foundation of China (41773063). **Participate**. The formation mechanism of dark spots on Mercury.
 * **2016.03 – 2017.03** National Undergraduate Innovation Training Key Program (201610491003). **Principal Investigator**. The equilibrium states of different-aged craters on the Moon.
 
+📖 Educations
+------
+* **2022.11 – present** Museum für Naturkunde Berlin, joint training Ph.D. student
+* **2022.09 – present** School of Atmospheric Sciences, Sun Yat-sen University, Geophysics, Ph.D. student
+* **2017.09 – 2020.06** School of Earth Sciences, China University of Geosciences (Wuhan), Geology, MS
+* **2017.05 – 2017.08** Department of Earth Sciences, University of Western Ontario, visiting student
+* **2013.09 – 2017.06** School of Earth Sciences, China University of Geosciences (Wuhan), National Geological Science Base, BS 
 
+🥇 Awards
+------
+* **2022.10** National Scholarship for Graduate Students
+* **2022 – 2023** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 2/42
+* **2022 – 2023** China Scholarship Council (1 year)
+* **2021 – 2022** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 7/42
+* **2021.09** Doctoral Scholarship, Department of Space and Planetary Science
+* **2020.06** Excellent MA Theses of China University of Geosciences (Wuhan)
+* **2019 – 2020** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
+* **2018 – 2019** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
+* **2017 – 2018** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan)
+* **2016.05** China University of Geosciences (Wuhan) Outstanding Student
+* **2016.05** Academician Scholarship, China University of Geosciences (Wuhan)
 
 Getting started
 ======
