@@ -11,10 +11,10 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 
 
 👨‍🎓 Publications
-======
-
-Papers on peer-reviem journals
 ------
+
+**Papers on peer-reviem journals**
+
 1. **Wang, Y.**, Xiao, Z., Xu, R., Xiao, Z., Cui, J., 2022. [Dark spots on Mercury show no signs of weathering during 30 Earth months.](https://doi.org/10.1038/s43247-022-00634-z) _Communications Earth & Environment_, 3, 299.
 2. **Wang, Y.**, Xiao, Z., Xu, R., 2022. Multiple mantle sources of high-magnesium terranes on Mercury. _Journal of Geophysical Research: Planets_, 127, e2022JE007218. https://doi.org/10.1029/2022JE007218
 3. **Wang, Y.**, Xiao, Z., 2021. The history of volcanism on Mercury (in Chinese). _Journal of Nanjing University (Natural Science)_, 51(6), 981–999. https://doi.org/10.13232/j.cnki.jnju/2021.06.007
@@ -32,13 +32,13 @@ Papers on peer-reviem journals
 15. Xu, R., Xiao, Z., **Wang, Y.**, Cui, J., 2023. Less than one half weight percent of graphite on the surface of Mercury. _Nature Astronomy_, under review.
 16. Xu, R., Xiao, Z., Luo, F., **Wang, Y.**, 2023. Untrackable distal ejecta on planetary surfaces. _Nature Communications_, under review.
 
-Papers on academic conferences
-------
+**Papers on academic conferences**
+
 1. Wang, Y., and Xiao, Z., 2020. Constraint on hollow formation from reflectance spectra. 51st Lunar and Planetary Science Conference. Abstract 1337.
 2. Wang, Y., and Xiao, Z., 2019. The minimum confidential diameter for crater counts. 50th Lunar and Planetary Science Conference. Abstract 1506.
 
 Experiences
-======
+------
 * **2022.12** Planetary Science Webinar (Issue 102), Oral Report. “Temporal changes and formation mechanism of dark spots on Mercury”
 * **2022.11** Seminar on Impact- and Meteorite Research, Museum für Naturkunde, Oral Report. “The effect of small primary and secondary impacts on porosity of lunar regolith”
 * **2021.11** Planetary Science Webinar (Issue 61), Oral Report. “Short-term and global-wide effusive volcanism on Mercury around 3.7 Ga”
@@ -48,6 +48,11 @@ Experiences
 * **2018.10** The 5th Young Scientist Forum of Earth Science, Oral Report. “The minimum confidence limit for diameters in crater counts”
 * **2018.06** International Symposium on Lunar and Planetary Science (ISLPS), Poster. “What is the minimum confidential diameter for crater statistics?”
 
+Projects
+------
+* **2023.01 – 2026.12** National Natural Science Foundation of China (42273040). **Participate**. Geological study of low-reflectance materials on Mercury.
+* **2018.01 – 2021.12** National Natural Science Foundation of China (41773063). **Participate**. The formation mechanism of dark spots on Mercury.
+* **2016.03 – 2017.03** National Undergraduate Innovation Training Key Program (201610491003). **Principal Investigator**. The equilibrium states of different-aged craters on the Moon.
 
 
 
