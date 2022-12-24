@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yichen Wang (王一尘)"
+title                    : ""
 title_separator          : "-"
 description              : "Ph.D. student at Sun Yat-sen University. Focusing on Planetary Geology."
 url                      : https://yichenwang9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Yichen Wang"
-  avatar           : "images/YichenWang_Visa.jpg"
+  avatar           : "https://github.com/yichenwang9/yichenwang9.github.io/blob/master/images/YichenWang_Visa.jpg"
   bio              : "Ph.D. student at Sun Yat-sen University. Focusing on Planetary Geology"
   location         : "Berlin, Germany"
   employer         :
