@@ -10,7 +10,7 @@ redirect_from:
 I am a Ph.D. student in Planetary Environmental and Astrobiological Research Laboratory (PEAEL), School of Atomospheric Sciences, Sun Yat-sen University (now visiting Museum für Naturkunde, Berlin, Germany). I'm supervised by Prof. Zhiyong Xiao (Sun Yat-sen Univeristy) and Prof. Kai Wünnemann (Museum für Naturkunde). My main research interest is using remote sensing techniques to study geological processes on the Moon and Mercury. I am also interested in the application of impact numerical modelling to the formation mechanism of small-scale impact craters and their implications for the evolution of lunar regolith.
 
 
-Publications
+👨‍🎓 Publications
 ======
 
 Papers on peer-reviem journals
@@ -39,14 +39,14 @@ Papers on academic conferences
 
 Experiences
 ======
--2022.12 Planetary Science Webinar (Issue 102), Oral Report. “Temporal changes and formation mechanism of dark spots on Mercury”
-2022.11 Seminar on Impact- and Meteorite Research, Museum für Naturkunde, Oral Report. “The effect of small primary and secondary impacts on porosity of lunar regolith”
-2021.11 Planetary Science Webinar (Issue 61), Oral Report. “Short-term and global-wide effusive volcanism on Mercury around 3.7 Ga”
-2021.06 The 1st National Planetary Science Conference, Oral Report. “A comparison of global volcanism on the Moon and Mercury”
-2020.10 Annual Meeting of Chinese Geoscience Union (CGU), Oral Report. “The formation mechanism of hollows on Mercury”
-2019.06 The 4th International Conference on Lunar and Deep Space Exploration, Oral Report. “The formation mechanism of dark spots on Mercury”
-2018.10 The 5th Young Scientist Forum of Earth Science, Oral Report. “The minimum confidence limit for diameters in crater counts”
-2018.06 International Symposium on Lunar and Planetary Science (ISLPS), Poster. “What is the minimum confidential diameter for crater statistics?”
+* **2022.12** Planetary Science Webinar (Issue 102), Oral Report. “Temporal changes and formation mechanism of dark spots on Mercury”
+* **2022.11** Seminar on Impact- and Meteorite Research, Museum für Naturkunde, Oral Report. “The effect of small primary and secondary impacts on porosity of lunar regolith”
+* **2021.11** Planetary Science Webinar (Issue 61), Oral Report. “Short-term and global-wide effusive volcanism on Mercury around 3.7 Ga”
+* **2021.06** The 1st National Planetary Science Conference, Oral Report. “A comparison of global volcanism on the Moon and Mercury”
+* **2020.10** Annual Meeting of Chinese Geoscience Union (CGU), Oral Report. “The formation mechanism of hollows on Mercury”
+* **2019.06** The 4th International Conference on Lunar and Deep Space Exploration, Oral Report. “The formation mechanism of dark spots on Mercury”
+* **2018.10** The 5th Young Scientist Forum of Earth Science, Oral Report. “The minimum confidence limit for diameters in crater counts”
+* **2018.06** International Symposium on Lunar and Planetary Science (ISLPS), Poster. “What is the minimum confidential diameter for crater statistics?”
 
 
 
