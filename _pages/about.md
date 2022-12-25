@@ -40,7 +40,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 🙋🏻‍♂️ Experiences
 ------
 * **2022.12** Planetary Science Webinar (Issue 102), **Oral Report**. “Temporal changes and formation mechanism of dark spots on Mercury”
-* **2022.11** Seminar on Impact- and Meteorite Research, Museum für Naturkunde, Oral Report. “The effect of small primary and secondary impacts on porosity of lunar regolith”
+* **2022.11** Seminar on Impact- and Meteorite Research, Museum für Naturkunde, **Oral Report**. “The effect of small primary and secondary impacts on porosity of lunar regolith”
 * **2021.11** Planetary Science Webinar (Issue 61), **Oral Report**. “Short-term and global-wide effusive volcanism on Mercury around 3.7 Ga”
 * **2021.06** The 1st National Planetary Science Conference, **Oral Report**. “A comparison of global volcanism on the Moon and Mercury”
 * **2020.10** Annual Meeting of Chinese Geoscience Union (CGU), **Oral Report**. “The formation mechanism of hollows on Mercury”
@@ -64,15 +64,15 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 
 🥇 Awards
 ------
-* **2022.10** National Scholarship for Graduate Students
+* **2022.10**     National Scholarship for Graduate Students
 * **2022 – 2023** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 2/42
 * **2022 – 2023** China Scholarship Council (1 year)
 * **2021 – 2022** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 7/42
-* **2021.09** Doctoral Scholarship, Department of Space and Planetary Science
-* **2020.06** Excellent MA Theses of China University of Geosciences (Wuhan)
+* **2021.09**     Doctoral Scholarship, Department of Space and Planetary Science
+* **2020.06**     Excellent MA Theses of China University of Geosciences (Wuhan)
 * **2019 – 2020** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
 * **2018 – 2019** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
 * **2017 – 2018** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan)
-* **2016.05** China University of Geosciences (Wuhan) Outstanding Student
-* **2016.05** Academician Scholarship, China University of Geosciences (Wuhan)
+* **2016.05**     China University of Geosciences (Wuhan) Outstanding Student
+* **2016.05**     Academician Scholarship, China University of Geosciences (Wuhan)
 
