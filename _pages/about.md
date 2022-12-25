@@ -68,7 +68,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 * **2022 – 2023** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 2/42
 * **2022 – 2023** China Scholarship Council (1 year)
 * **2021 – 2022** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 7/42
-* **2021.09**sssssDoctoral Scholarship, Department of Space and Planetary Science
+* **2021.09**     Doctoral Scholarship, Department of Space and Planetary Science
 * **2020.06**     Excellent MA Theses of China University of Geosciences (Wuhan)
 * **2019 – 2020** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
 * **2018 – 2019** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
