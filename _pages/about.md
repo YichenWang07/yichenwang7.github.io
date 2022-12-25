@@ -9,7 +9,7 @@ redirect_from:
 ---
 👨‍🎓 About me
 ------
-I am a Ph.D. student in Planetary Environmental and Astrobiological Research Laboratory (PEAEL), School of Atomospheric Sciences, Sun Yat-sen University (now visiting Museum für Naturkunde, Berlin, Germany). I'm supervised by Prof. Zhiyong Xiao (Sun Yat-sen Univeristy) and Prof. Kai Wünnemann (Museum für Naturkunde). My main research interest is using remote sensing techniques to study geological processes on the Moon and Mercury. I am also interested in the application of impact numerical modelling to the formation mechanism of small-scale impact craters and their implications for the evolution of lunar regolith.
+I am a Ph.D. student in Planetary Environmental and Astrobiological Research Laboratory (PEAEL), School of Atomospheric Sciences, Sun Yat-sen University (now visiting Museum für Naturkunde, Berlin, Germany). I'm supervised by Prof. Zhiyong Xiao (Sun Yat-sen University) and Prof. Kai Wünnemann (Museum für Naturkunde). My main research interest is using remote sensing techniques to study geological processes on the Moon and Mercury. I'm also interested in the application of impact numerical modeling to the formation mechanism of small-scale impact craters and their implications for lunar regolith evolution.
 
 
 📝 Publications
@@ -25,7 +25,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 8. Cao, W., Xiao, Z., Xu, R., **Wang, Y.**, 2022. [Extracting background secondary craters based on fusion of multi-scale and multi-facies crater topography information.](https://doi.org/10.1109/TGRS.2022.3195201) _IEEE Transactions on Geoscience and Remote Sensing_, 60, 1–16.
 9. Xiao, Z., Yan, P., Wu, B., Ding, C., Li, Y., Chang, Y., Xu, R., Xie, M., Wu, Y., **Wang, Y.**, Ma, Y., Cui, J., 2022. [Translucent tektite-like glasses on the Moon.](https://doi.org/10.1016/j.scib.2021.11.004) _Science Bulletin_, 67(4), 355–358.
 10. Xiao, Z., Xu, R., **Wang, Y.**, Chang, Y., Xu, R., Cui, J., 2021. [Recent dark pyroclastic deposits on Mercury.](https://doi.org/10.1029/2021GL092532) _Geophysical Research Letters_, 48, e2021GL092532.
-11. Chang, Y., Xiao, Z., **Wang, Y.**, Ding, C., Cui, J., and Cai, Y., 2020. [An updated constraint on the local stratigraphy at the Chang’E-4 landing site.](https://doi.org/10.26464/epp2021007) _Earth and Planetary Physics_, epp2021007.
+11. Chang, Y., Xiao, Z., **Wang, Y.**, Ding, C., Cui, J., Cai, Y., 2020. [An updated constraint on the local stratigraphy at the Chang’E-4 landing site.](https://doi.org/10.26464/epp2021007) _Earth and Planetary Physics_, epp2021007.
 12. Ding, C., Li, C., Xiao, Z., Su, Y., Xing, S., **Wang, Y.**, Feng, J., Dai, S., Xiao, Y., Yao, M., 2020. [Laminar structures in the porous material beneath the Chang’e-3 landing site.](https://doi.org/10.1029/2019EA000862) _Earth and Space Science_, 7, e2019EA000862.
 13. Yan, P., Xiao, Z., Ma, Y., **Wang, Y.**, Pu, J., 2019. [Formation mechanism of the Lidang circular structure in the Guangxi Province.](https://doi.org/10.26464/epp2019031) _Earth and Planetary Physics_, 3(4), 298–304.
 14. Xiao, Z., Chen, Z., Pu, J., Xiao, X., **Wang, Y.**, Huang, J., 2018. [Hailar crater – A possible impact structure in Inner Mongolia, China.](https://doi.org/10.1016/j.geomorph.2018.01.020) _Geomorphology_, 306, 128–140.
@@ -34,8 +34,8 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 
 **Papers on academic conferences**
 
-1. **Wang, Y.**, and Xiao, Z., 2020. Constraint on hollow formation from reflectance spectra. 51st Lunar and Planetary Science Conference. Abstract 1337.
-2. **Wang, Y.**, and Xiao, Z., 2019. The minimum confidential diameter for crater counts. 50th Lunar and Planetary Science Conference. Abstract 1506.
+1. **Wang, Y.**, Xiao, Z., 2020. [Constraint on hollow formation from reflectance spectra.](https://www.hou.usra.edu/meetings/lpsc2020/pdf/1337.pdf) 51st Lunar and Planetary Science Conference. Abstract 1337.
+2. **Wang, Y.**, Xiao, Z., 2019. [The minimum confidential diameter for crater counts.](https://www.hou.usra.edu/meetings/lpsc2019/pdf/1506.pdf) 50th Lunar and Planetary Science Conference. Abstract 1506.
 
 🙋🏻‍♂️ Experiences
 ------
