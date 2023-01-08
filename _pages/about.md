@@ -31,6 +31,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 14. Xiao, Z., Chen, Z., Pu, J., Xiao, X., **Wang, Y.**, Huang, J., 2018. [Hailar crater – A possible impact structure in Inner Mongolia, China.](https://doi.org/10.1016/j.geomorph.2018.01.020) _Geomorphology_, 306, 128–140.
 15. Xu, R., Xiao, Z., **Wang, Y.**, Cui, J., 2023. Less than one half weight percent of graphite on the surface of Mercury. _Nature Astronomy_, under review.
 16. Xu, R., Xiao, Z., Luo, F., **Wang, Y.**, 2023. Untrackable distal ejecta on planetary surfaces. _Nature Communications_, under review.
+17. luo, f., Xiao, Z., Xu, R., Ma, Y., Cao, W., **Wang, Y.**, Wu, Y., Cui, J., 2023. The source crater of depleted shergottites. _Geology_, submitted.
 
 **Papers on academic conferences**
 
