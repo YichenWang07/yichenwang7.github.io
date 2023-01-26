@@ -30,8 +30,8 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 13. Yan, P., Xiao, Z., Ma, Y., **Wang, Y.**, Pu, J., 2019. [Formation mechanism of the Lidang circular structure in the Guangxi Province.](https://doi.org/10.26464/epp2019031) _Earth and Planetary Physics_, 3(4), 298–304.
 14. Xiao, Z., Chen, Z., Pu, J., Xiao, X., **Wang, Y.**, Huang, J., 2018. [Hailar crater – A possible impact structure in Inner Mongolia, China.](https://doi.org/10.1016/j.geomorph.2018.01.020) _Geomorphology_, 306, 128–140.
 15. Xu, R., Xiao, Z., **Wang, Y.**, Cui, J., 2023. Less than one half weight percent of graphite on the surface of Mercury. _Nature Astronomy_, under review.
-16. Xu, R., Xiao, Z., Luo, F., **Wang, Y.**, 2023. Untrackable distal ejecta on planetary surfaces. _Nature Communications_, under review.
-17. luo, f., Xiao, Z., Xu, R., Ma, Y., Cao, W., **Wang, Y.**, Wu, Y., Cui, J., 2023. The source crater of depleted shergottites. _Geology_, submitted.
+16. Xu, R., Xiao, Z., Luo, F., **Wang, Y.**, Cui, J., 2023. Untrackable distal ejecta on planetary surfaces. _Nature Communications_, under review.
+17. Luo, F., Xiao, Z., Xu, R., Ma, Y., Cao, W., **Wang, Y.**, Wu, Y., Cui, J., 2023. The source crater of depleted shergottites. _Geology_, submitted.
 
 **Papers on academic conferences**
 
@@ -40,6 +40,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 
 🙋🏻‍♂️ Experiences
 ------
+* **2023.02** MExAG Annual Meeting 2023, **Oral Report**. "Dark spots on Mercury show no signs of weathering during 30 Earth months"
 * **2022.12** Planetary Science Webinar (Issue 102), **Oral Report**. “Temporal changes and formation mechanism of dark spots on Mercury”
 * **2022.11** Seminar on Impact- and Meteorite Research, Museum für Naturkunde, **Oral Report**. “The effect of small primary and secondary impacts on porosity of lunar regolith”
 * **2021.11** Planetary Science Webinar (Issue 61), **Oral Report**. “Short-term and global-wide effusive volcanism on Mercury around 3.7 Ga”
