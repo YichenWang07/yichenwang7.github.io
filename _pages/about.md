@@ -14,7 +14,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 
 📝 Publications
 ------
-**Papers on peer-reviem journals**
+**Papers on peer-review journals**
 1. **Wang, Y.**, Xiao, Z., Xu, R., Xiao, Z., Cui, J., 2022. [Dark spots on Mercury show no signs of weathering during 30 Earth months.](https://doi.org/10.1038/s43247-022-00634-z) _Communications Earth & Environment_, 3, 299.
 2. **Wang, Y.**, Xiao, Z., Xu, R., 2022. [Multiple mantle sources of high-magnesium terranes on Mercury.](https://doi.org/10.1029/2022JE007218) _Journal of Geophysical Research: Planets_, 127, e2022JE007218.
 3. **Wang, Y.**, Xiao, Z., 2021. [The history of volcanism on Mercury (in Chinese).](https://doi.org/10.13232/j.cnki.jnju/2021.06.007) _Journal of Nanjing University (Natural Science)_, 51(6), 981–999.
