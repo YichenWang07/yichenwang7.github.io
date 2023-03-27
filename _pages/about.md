@@ -21,7 +21,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 4. **Wang, Y.**, Xiao, Z., Chang, Y., Xu, R., Cui, J., 2021. [Short-term and global-wide effusive volcanism on Mercury around 3.7 Ga.](https://doi.org/10.1029/2021GL094593) _Geophysical Research Letters_, 48, e2021GL094503.
 5. **Wang, Y.**, Xiao, Z., Chang, Y., Cui, J., 2020. [Lost volatiles during the formation of hollows on Mercury.](https://doi.org/10.1029/2020JE006559) _Journal of Geophysical Research: Planets_, 125, e2020JE006559.
 6. **Wang, Y.**, Xie, M., Xiao, Z., Cui, J., 2020. [The minimum confidence limit for diameters in crater counts.](https://doi.org/10.1016/j.icarus.2020.113645) _Icarus_, 341, 113645.
-7. Xu, R., Xiao, Z., Luo, F., **Wang, Y.**, Cui, J., 2023. Untrackable distal ejecta on planetary surfaces. _Nature Communications_, in press.
+7. Xu, R., Xiao, Z., Luo, F., **Wang, Y.**, Cui, J., 2023. [Untrackable distal ejecta on planetary surfaces.](https://doi.org/10.1038/s41467-023-36771-y) _Nature Communications_, 14, 1143.
 8. Xu, R., Xiao, Z., **Wang, Y.**, Xu, R., 2022. [Pitted-ground volcanoes on Mercury.](https://doi.org/10.3390/rs14174164) _Remote Sensing_, 14, 4164.
 9. Cao, W., Xiao, Z., Xu, R., **Wang, Y.**, 2022. [Extracting background secondary craters based on fusion of multi-scale and multi-facies crater topography information.](https://doi.org/10.1109/TGRS.2022.3195201) _IEEE Transactions on Geoscience and Remote Sensing_, 60, 1–16.
 10. Xiao, Z., Yan, P., Wu, B., Ding, C., Li, Y., Chang, Y., Xu, R., Xie, M., Wu, Y., **Wang, Y.**, Ma, Y., Cui, J., 2022. [Translucent tektite-like glasses on the Moon.](https://doi.org/10.1016/j.scib.2021.11.004) _Science Bulletin_, 67(4), 355–358.
@@ -31,12 +31,13 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 14. Yan, P., Xiao, Z., Ma, Y., **Wang, Y.**, Pu, J., 2019. [Formation mechanism of the Lidang circular structure in the Guangxi Province.](https://doi.org/10.26464/epp2019031) _Earth and Planetary Physics_, 3(4), 298–304.
 15. Xiao, Z., Chen, Z., Pu, J., Xiao, X., **Wang, Y.**, Huang, J., 2018. [Hailar crater – A possible impact structure in Inner Mongolia, China.](https://doi.org/10.1016/j.geomorph.2018.01.020) _Geomorphology_, 306, 128–140.
 16. Xu, R., Xiao, Z., **Wang, Y.**, Cui, J., 2023. Less than one half weight percent of graphite on the surface of Mercury. _Nature Astronomy_, under review.
-17. Luo, F., Xiao, Z., Xu, R., Ma, Y., Cao, W., **Wang, Y.**, Wu, Y., Cui, J., 2023. The source crater of depleted shergottites. _Geology_, submitted.
+17. Luo, F., Xiao, Z., Xu, R., Ma, Y., Cao, W., **Wang, Y.**, Wu, Y., Cui, J., 2023. The source crater of depleted shergottites. _Geophysical Research Letters_, submitted.
 
 **Papers on academic conferences**
 
-1. **Wang, Y.**, Xiao, Z., 2020. [Constraint on hollow formation from reflectance spectra.](https://www.hou.usra.edu/meetings/lpsc2020/pdf/1337.pdf) 51st Lunar and Planetary Science Conference. Abstract 1337.
-2. **Wang, Y.**, Xiao, Z., 2019. [The minimum confidential diameter for crater counts.](https://www.hou.usra.edu/meetings/lpsc2019/pdf/1506.pdf) 50th Lunar and Planetary Science Conference. Abstract 1506.
+1.  **Wang, Y.**, Wünnemann, K., Xiao, Z., Luther, R., Liu, T., Röhlen, R., 2023. Origin of heterogeneities underneath small craters - modelling of impact-induced compaction of regolith. 11th European Lunar Symposium.
+2.  **Wang, Y.**, Xiao, Z., 2020. [Constraint on hollow formation from reflectance spectra.](https://www.hou.usra.edu/meetings/lpsc2020/pdf/1337.pdf) 51st Lunar and Planetary Science Conference. Abstract 1337.
+3. **Wang, Y.**, Xiao, Z., 2019. [The minimum confidential diameter for crater counts.](https://www.hou.usra.edu/meetings/lpsc2019/pdf/1506.pdf) 50th Lunar and Planetary Science Conference. Abstract 1506.
 
 🙋🏻‍♂️ Experiences
 ------
