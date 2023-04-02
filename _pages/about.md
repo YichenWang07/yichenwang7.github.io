@@ -31,7 +31,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 14. Yan, P., Xiao, Z., Ma, Y., **Wang, Y.**, Pu, J., 2019. [Formation mechanism of the Lidang circular structure in the Guangxi Province.](https://doi.org/10.26464/epp2019031) _Earth and Planetary Physics_, 3(4), 298–304.
 15. Xiao, Z., Chen, Z., Pu, J., Xiao, X., **Wang, Y.**, Huang, J., 2018. [Hailar crater – A possible impact structure in Inner Mongolia, China.](https://doi.org/10.1016/j.geomorph.2018.01.020) _Geomorphology_, 306, 128–140.
 16. Xu, R., Xiao, Z., **Wang, Y.**, Cui, J., 2023. Less than one half weight percent of graphite on the surface of Mercury. _Nature Astronomy_, under review.
-17. Luo, F., Xiao, Z., Xu, R., Ma, Y., Cao, W., **Wang, Y.**, Wu, Y., Cui, J., 2023. The source crater of depleted shergottites. _Geophysical Research Letters_, submitted.
+17. Luo, F., Xiao, Z., Xu, R., Ma, Y., Cao, W., Wu, Y., **Wang, Y.**, Cui, J., 2023. The source crater of depleted shergottites. _Geophysical Research Letters_, submitted.
 
 **Papers on academic conferences**
 
