@@ -60,7 +60,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 📖 Educations
 ------
 * **2022.11 – present** Museum für Naturkunde Berlin, joint training Ph.D. student
-* **2022.09 – present** School of Atmospheric Sciences, Sun Yat-sen University, Geophysics, Ph.D. student
+* **2020.09 – present** School of Atmospheric Sciences, Sun Yat-sen University, Geophysics, Ph.D. student
 * **2017.09 – 2020.06** School of Earth Sciences, China University of Geosciences (Wuhan), Geology, MS
 * **2017.05 – 2017.08** Department of Earth Sciences, University of Western Ontario, visiting student
 * **2013.09 – 2017.06** School of Earth Sciences, China University of Geosciences (Wuhan), National Geological Science Base, BS 
