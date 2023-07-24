@@ -31,16 +31,17 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 14. Yan, P., Xiao, Z., Ma, Y., **Wang, Y.**, Pu, J., 2019. [Formation mechanism of the Lidang circular structure in the Guangxi Province.](https://doi.org/10.26464/epp2019031) _Earth and Planetary Physics_, 3(4), 298–304.
 15. Xiao, Z., Chen, Z., Pu, J., Xiao, X., **Wang, Y.**, Huang, J., 2018. [Hailar crater – A possible impact structure in Inner Mongolia, China.](https://doi.org/10.1016/j.geomorph.2018.01.020) _Geomorphology_, 306, 128–140.
 16. Xu, R., Xiao, Z., **Wang, Y.**, Cui, J., 2023. Less than one half weight percent of graphite on the surface of Mercury. _Nature Astronomy_, under review.
-17. Luo, F., Xiao, Z., Xu, R., Ma, Y., Cao, W., Wu, Y., **Wang, Y.**, Cui, J., 2023. The source crater of depleted shergottites. _Geophysical Research Letters_, submitted.
+17. Luo, F., Xiao, Z., Xu, R., Ma, Y., Cao, W., Wu, Y., **Wang, Y.**, Cui, J., 2023. The source crater of depleted shergottites. _Geoscience Frontiers_, submitted.
 
 **Papers on academic conferences**
 
-1.  **Wang, Y.**, Wünnemann, K., Xiao, Z., Luther, R., Liu, T., Röhlen, R., 2023. Origin of heterogeneities underneath small craters - modelling of impact-induced compaction of regolith. 11th European Lunar Symposium.
+1.  **Wang, Y.**, Wünnemann, K., Xiao, Z., Luther, R., Liu, T., Röhlen, R., 2023. [Origin of heterogeneities underneath small craters - modelling of impact-induced compaction of regolith.](https://hal.science/hal-04149138/document) 11th European Lunar Symposium.
 2.  **Wang, Y.**, Xiao, Z., 2020. [Constraint on hollow formation from reflectance spectra.](https://www.hou.usra.edu/meetings/lpsc2020/pdf/1337.pdf) 51st Lunar and Planetary Science Conference. Abstract 1337.
 3. **Wang, Y.**, Xiao, Z., 2019. [The minimum confidential diameter for crater counts.](https://www.hou.usra.edu/meetings/lpsc2019/pdf/1506.pdf) 50th Lunar and Planetary Science Conference. Abstract 1506.
 
 🙋🏻‍♂️ Experiences
 ------
+* **2023.06** The 11th European Lunar Symposium 2023, **Poster**. "Origin of heterogeneities underneath small craters - modelling of impact-induced compaction of regolith"
 * **2023.02** MExAG Annual Meeting 2023, **Oral Report**. "Dark spots on Mercury show no signs of weathering during 30 Earth months"
 * **2022.12** Planetary Science Webinar (Issue 102), **Oral Report**. “Temporal changes and formation mechanism of dark spots on Mercury”
 * **2022.11** Seminar on Impact- and Meteorite Research, Museum für Naturkunde, **Oral Report**. “The effect of small primary and secondary impacts on porosity of lunar regolith”
@@ -67,6 +68,7 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 
 🥇 Awards
 ------
+* **2023.05**     Mercury Early Career Spotlight
 * **2022.10**     National Scholarship for Graduate Students
 * **2022 – 2023** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 2/42
 * **2022 – 2023** China Scholarship Council (1 year)
