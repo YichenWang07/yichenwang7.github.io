@@ -1,10 +1,10 @@
 👨‍🎓 About me
 ------
-Dr. Yichen Wang
-Postdoc Fellow, Research Associate
-Planetary Environmental and Astrobiological Research Laboratory
-School of Atmospheric Sciences, Sun Yat-sen University
-EMAIL: wangych336@mail.sysu.edu.cn
+Dr. Yichen Wang  
+Postdoc Fellow, Research Associate  
+Planetary Environmental and Astrobiological Research Laboratory  
+School of Atmospheric Sciences, Sun Yat-sen University  
+EMAIL: wangych336@mail.sysu.edu.cn  
 
 📖 Research Interests
 ------
