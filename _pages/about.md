@@ -1,6 +1,6 @@
 👨‍🎓 About me
 ------
-**Dr. Yichen Wang ** 
+**Dr. Yichen Wang**  
 Postdoc Fellow, Research Associate  
 Planetary Environmental and Astrobiological Research Laboratory  
 School of Atmospheric Sciences, Sun Yat-sen University  
@@ -61,7 +61,7 @@ Impact cratering process; Impact Simulation; Geological processes on the Moon an
 34.	Xiao, Z.*, Chen, Z., Pu, J., Xiao, X., **Wang, Y.**, Huang, J., 2018. [Hailar crater – A possible impact structure in Inner Mongolia, China.](https://doi.org/10.1016/j.geomorph.2018.01.020) _Geomorphology_, 306, 128–140.
 
 **Books**
-1.  Xiao, Z., **Wang, Y.**, 2024. Mercury Geology. In: Geng, Y., Wei, Y., Zhang, R. (Eds.), Mercury Scientific Exploration (Chapter 4), China Astronautic Publishing House.
+1.  Xiao, Z., **Wang, Y.**, 2024. Mercury Geology (Chapter 4). In: Geng, Y., Wei, Y., Zhang, R. (Eds.), _Mercury Scientific Exploration_, China Astronautic Publishing House.
 
 **Papers on academic conferences**
 1.  **Wang, Y.**, Wünnemann, K., Xiao, Z., Luther, R., Liu, T., Röhlen, R., 2023. [Origin of heterogeneities underneath small craters - modelling of impact-induced compaction of regolith.](https://hal.science/hal-04149138/document) 11th European Lunar Symposium.
@@ -70,6 +70,12 @@ Impact cratering process; Impact Simulation; Geological processes on the Moon an
 
 🙋🏻‍♂️ Experiences
 ------
+* **2025.07** The 22nd Annual Meeting of the Asia Oceania Geosciences Society, **Oral Report**. “Formation of simple craters on the Moon”
+* **2025.06** 2025 Symposium on Deep Space Remote Sensing and Geomatics, **Oral Report**. “Effect of near-Earth object oblateness on the formation of lunar simple craters”
+* **2025.01** Macau International Forum on Space and Planetary Sciences, **Oral Report**. “Proximal ejecta thickness of lunar simple craters constrained by numerical simulations”
+* **2024.10** The 2nd National Planetary Science Conference, **Oral Report**. “Why lunar simple craters exhibit various shape?”
+* **2024.06** Symposium of Planetary Science and Deep Space Exploration, **Invited Report**. “Impact-induced pores closure in mature lunar regolith”
+* **2024.04** The 2nd Academic Symposium on Scientific Exploration and Data Processing Technology of Tianwen-2 Mission, **Oral Report**. “Impact-induced modification of subsurface structures in rubble-pile asteroids”
 * **2023.06** The 11th European Lunar Symposium 2023, **Poster**. "Origin of heterogeneities underneath small craters - modelling of impact-induced compaction of regolith"
 * **2023.02** MExAG Annual Meeting 2023, **Oral Report**. "Dark spots on Mercury show no signs of weathering during 30 Earth months"
 * **2022.12** Planetary Science Webinar (Issue 102), **Oral Report**. “Temporal changes and formation mechanism of dark spots on Mercury”
