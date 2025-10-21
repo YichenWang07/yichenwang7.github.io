@@ -9,6 +9,12 @@ redirect_from:
 ---
 👨‍🎓 About me
 ------
+Dr. Yichen Wang
+Postdoc Fellow, Research Associate
+Planetary Environmental and Astrobiological Research Laboratory
+School of Atmospheric Sciences, Sun Yat-sen University
+EMAIL: wangych336@mail.sysu.edu.cn
+
 I am a Ph.D. student in Planetary Environmental and Astrobiological Research Laboratory (PEARL), School of Atomospheric Sciences, Sun Yat-sen University (now visiting Museum für Naturkunde, Berlin, Germany). I'm supervised by Prof. Zhiyong Xiao (Sun Yat-sen University) and Prof. Kai Wünnemann (Museum für Naturkunde). My main research interest is using remote sensing techniques to study geological processes on the Moon and Mercury. I'm also interested in the application of impact numerical modeling to the formation mechanism of small-scale impact craters and their implications for lunar regolith evolution.
 
 
