@@ -1,4 +1,4 @@
----
+<img width="432" height="34" alt="image" src="https://github.com/user-attachments/assets/6463bf15-593a-4327-bee4-cb78de4bc411" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -15,8 +15,21 @@ Planetary Environmental and Astrobiological Research Laboratory
 School of Atmospheric Sciences, Sun Yat-sen University
 EMAIL: wangych336@mail.sysu.edu.cn
 
-I am a Ph.D. student in Planetary Environmental and Astrobiological Research Laboratory (PEARL), School of Atomospheric Sciences, Sun Yat-sen University (now visiting Museum für Naturkunde, Berlin, Germany). I'm supervised by Prof. Zhiyong Xiao (Sun Yat-sen University) and Prof. Kai Wünnemann (Museum für Naturkunde). My main research interest is using remote sensing techniques to study geological processes on the Moon and Mercury. I'm also interested in the application of impact numerical modeling to the formation mechanism of small-scale impact craters and their implications for lunar regolith evolution.
+📖 Research Interests
+------
+Impact cratering process; Impact Simulation; Geological processes on the Moon and Mercury
 
+📖 Employment
+------
+* **2024.08 – present**	Sun Yat-sen University, Postdoc Fellow (Supervisor: Jian-yang Li)
+
+📖 Educations
+------
+* **2022.11 – 2023.11** Museum für Naturkunde Berlin, joint training Ph.D. student (Supervisor: Kai Wünnemann)
+* **2020.09 – 2024.06** School of Atmospheric Sciences, Sun Yat-sen University, Geophysics, Ph.D. (Supervisor: Zhiyong Xiao)
+* **2017.09 – 2020.06** School of Earth Sciences, China University of Geosciences (Wuhan), Geology, M.S. (Supervisor: Zhiyong Xiao)
+* **2017.05 – 2017.08** Department of Earth Sciences, University of Western Ontario, visiting student (Supervisor: Gordon R. Osinski)
+* **2013.09 – 2017.06** School of Earth Sciences, China University of Geosciences (Wuhan), National Geological Science Base, B.S. (Supervisor: Zhiyong Xiao)
 
 📝 Publications
 ------
@@ -60,30 +73,24 @@ I am a Ph.D. student in Planetary Environmental and Astrobiological Research Lab
 
 📚 Projects
 ------
+* **2026.01 – 2028.12**	National Natural Science Foundation of China (42508001). **Principal Investigator**. Formation of simple craters on the Moon.
+* **2024.11 – 2026.08** Fellowship of the China Postdoctoral Science Foundation (2024M763739). **Principal Investigator**. Study of distal structural deformation caused by lunar impact craters.
 * **2023.01 – 2026.12** National Natural Science Foundation of China (42273040). **Participate**. Geological study of low-reflectance materials on Mercury.
 * **2018.01 – 2021.12** National Natural Science Foundation of China (41773063). **Participate**. The formation mechanism of dark spots on Mercury.
 * **2016.03 – 2017.03** National Undergraduate Innovation Training Key Program (201610491003). **Principal Investigator**. The equilibrium states of different-aged craters on the Moon.
 
-📖 Educations
+🥇 Selected Awards
 ------
-* **2022.11 – present** Museum für Naturkunde Berlin, joint training Ph.D. student
-* **2020.09 – present** School of Atmospheric Sciences, Sun Yat-sen University, Geophysics, Ph.D. student
-* **2017.09 – 2020.06** School of Earth Sciences, China University of Geosciences (Wuhan), Geology, MS
-* **2017.05 – 2017.08** Department of Earth Sciences, University of Western Ontario, visiting student
-* **2013.09 – 2017.06** School of Earth Sciences, China University of Geosciences (Wuhan), National Geological Science Base, BS 
+* **2024**	Wiley China Excellent Author Program
+* **2024 – 2026**	Postdoctoral Fellowship Program (Grade B) of China Postdoctoral Science Foundation (Grant Number: GZB20240881). (180,000¥ per year, 2 years)
+* **2024**	Outstanding Ph.D. Graduate, School of Atmospheric Sciences
+* **2023**	Mercury Early Career Spotlight, NASA MExAG
+* **2022**	National Scholarship for Graduate Students
+* **2022 – 2023**	China Scholarship Council (1 year)
+* **2021**	Doctoral Scholarship, Department of Space and Planetary Science
+* **2020**	Excellent MA Theses of China University of Geosciences (Wuhan)
+* **2017 – 2020**	1st Grade Academic Scholarship, China University of Geosciences (Wuhan)
+* **2016**	China University of Geosciences (Wuhan) Outstanding Student
+* **2016**	Academician Scholarship, China University of Geosciences (Wuhan)
 
-🥇 Awards
-------
-* **2023.05**     Mercury Early Career Spotlight
-* **2022.10**     National Scholarship for Graduate Students
-* **2022 – 2023** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 2/42
-* **2022 – 2023** China Scholarship Council (1 year)
-* **2021 – 2022** 2nd Grade Academic Scholarship, Sun Yat-sen University, Ranked 7/42
-* **2021.09**     Doctoral Scholarship, Department of Space and Planetary Science
-* **2020.06**     Excellent MA Theses of China University of Geosciences (Wuhan)
-* **2019 – 2020** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
-* **2018 – 2019** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan), Ranked 2/35
-* **2017 – 2018** 1st Grade Academic Scholarship, China University of Geosciences (Wuhan)
-* **2016.05**     China University of Geosciences (Wuhan) Outstanding Student
-* **2016.05**     Academician Scholarship, China University of Geosciences (Wuhan)
 
