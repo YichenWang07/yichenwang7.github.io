@@ -9,10 +9,10 @@
 locale                   : "en-US"
 title                    : "Yichen Wang (王一尘)"
 title_separator          : "-"
-description              : "Ph.D. student at Sun Yat-sen University"
+description              : "Postdoc at Sun Yat-sen University"
 url                      : https://yichenwang9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yichenwang9/yichenwang9.github.io"
+repository               : "yichenwang07/yichenwang07.github.io"
 teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Yichen Wang"
   avatar           : "YichenWang_Visa.jpg"
-  bio              : "Ph.D. student at Sun Yat-sen University"
-  location         : "Berlin, Germany"
+  bio              : "Postdoc at Sun Yat-sen University"
+  location         : "Zhuhai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xX9Xh_oAAAAJ&hl=zh-CN"
-  email            : "wangych257[AT]mail2[DOT]sysu[DOT]edu[DOT]cn"
+  email            : "wangych336[AT]mail[DOT]sysu[DOT]edu[DOT]cn"
   researchgate     : "https://www.researchgate.net/profile/Yichen-Wang-71"
   uri              :
   bitbucket        :
