@@ -84,10 +84,12 @@ Impact cratering process; Impact Simulation; Geological processes on the Moon an
 
 🙋🏻‍♂️ Experiences
 ------
+* **2026.03** &emsp;2026 The 3nd National Planetary Science Conference, **Invited Report**.  
+&emsp;&emsp;&emsp;&emsp;&emsp;“Effect of near-Earth object oblateness on the formation of lunar simple craters”
 * **2025.07** &emsp;The 22nd Annual Meeting of the Asia Oceania Geosciences Society, **Oral Report**.  
 &emsp;&emsp;&emsp;&emsp;&emsp;“Formation of simple craters on the Moon”
 * **2025.06** &emsp;2025 Symposium on Deep Space Remote Sensing and Geomatics, **Oral Report**.  
-&emsp;&emsp;&emsp;&emsp;&emsp;“Effect of near-Earth object oblateness on the formation of lunar simple craters”
+&emsp;&emsp;&emsp;&emsp;&emsp;“Effect of impactor oblateness on the formation of lunar simple craters”
 * **2025.01** &emsp;Macau International Forum on Space and Planetary Sciences, **Oral Report**.  
 &emsp;&emsp;&emsp;&emsp;&emsp;“Proximal ejecta thickness of lunar simple craters constrained by numerical simulations”
 * **2024.10** &emsp;The 2nd National Planetary Science Conference, **Oral Report**.  
@@ -141,7 +143,7 @@ Impact cratering process; Impact Simulation; Geological processes on the Moon an
 
 🖋️ Services
 ------
-**Reviewer for:**	Geo-spatial Information Science; Research, a Science Partner Journal; Journal of Earth Science; Icarus; etc.  
+**Reviewer for:**	Geo-spatial Information Science; Research; Journal of Earth Science; Icarus; etc.  
 **Fund Reviewer:**	National Natural Science Foundation of China  
 
 
